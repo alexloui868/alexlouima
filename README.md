@@ -15,6 +15,7 @@ The mission is to create a Microsoft Azure virtual machine specifically configur
 - <b>Windows 10</b> (4 vCPUs)
 - <b>Azura</b>
   
+<h2>Step by Step</h2>
 
 <p align="center">
 Launch Azura and Create a Virtual Machine: <br/>
@@ -35,7 +36,7 @@ Install / Enable IIS in Windows WITH CGI: <br/>
 />
 <br />
 <br />
-install PHP Manager for IIS:  <br/>
+Register PHP Manager for IIS:  <br/>
 <img <img width="1680" alt="Screenshot 2024-12-28 at 8 52 31 PM" src="https://github.com/user-attachments/assets/48c27927-9b45-475f-ac04-592b33e66c10" />
 />
 <br />
@@ -45,11 +46,22 @@ install PHP Manager for IIS:  <br/>
 />
 <br />
 <br />
-Register PHP from within IIS:  <br/>
-<img <img width="1680" alt="Screenshot 2024-12-28 at 8 52 31 PM" src="https://github.com/user-attachments/assets/84a6be92-19b5-43c6-a23e-a4fd624bed27" />
+Reload PHP within IIS:  <br/>
+<img <img width="1680" alt="Screenshot 2024-12-28 at 11 45 31 PM" src="https://github.com/user-attachments/assets/feaa5db0-ae58-428c-b507-76b27f7d5eb3" />
+ />
+ />
+<br />
+<br />
+Install osTicket v1.15.8 and change the name to "osTicket":  <br/>
+<img <img width="1680" alt="Screenshot 2024-12-28 at 8 57 44 PM" src="https://github.com/user-attachments/assets/866b3314-1c4b-4ff9-816e-0bcfe9f4adbe" />
+ />
 />
+/>
+Continue Setting up osTicket in the browser until you see "Congratulations :  <br/>
+<img <img width="1680" alt="Screenshot 2024-12-28 at 9 15 52 PM" src="https://github.com/user-attachments/assets/4970c7e6-95e0-4545-8bd0-ef86e4dc39f7" />
+ />
+ />
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+/>
+/>
